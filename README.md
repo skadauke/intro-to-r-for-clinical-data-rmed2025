@@ -1,4 +1,4 @@
-This is the GitHub repository for the R/Medicine 2025 pre-conference workshop R/Medicine 101: Intro to R for Clinical Data. There is a course website here: <https://stephan-kadauke.quarto.pub/intro-to-r-for-clinical-data-rmed2025/>
+This is the GitHub repository for the R/Medicine 2025 pre-conference workshop R/Medicine 101: Intro to R for Clinical Data. 
 
 ## About the instructors
 
