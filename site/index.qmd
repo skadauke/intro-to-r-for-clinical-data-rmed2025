@@ -5,12 +5,9 @@ author:
   - name: Stephan Kadauke
     url: https://www.linkedin.com/in/skadauke/
     affiliation: Children's Hospital of Philadelphia
-  - name: Joseph Rudolf
-    url: https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6005682&name=joseph-w-rudolf
-    affiliation: University of Utah
-  - name: Patrick Mathias
-    url: https://dlmp.uw.edu/faculty/mathias
-    affiliation: University of Washington
+  - name: Rich Hanna
+    url: https://www.linkedin.com/in/richard-hanna-ms-0164162a/
+    affiliation: Children's Hospital of Philadelphia
 format: 
   html:
     theme: flatly
@@ -23,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Welcome!
 
-This is the website for the R/Medicine 2022 pre-conference short course *Introduction to R for Clinical Data*.
+This is the website for the R/Medicine 2025 pre-conference short course *Introduction to R for Clinical Data*.
 
 You'll learn about [Quarto](https://quarto.org/), a framework for reproducible data science, and how to perform essential data science tasks such as data import, visualization, transformation, and communication.
 
@@ -34,7 +31,7 @@ For the best experience, we suggest the following (none of the below are absolut
 -   Please use a recent version of macOS or Windows - we have had issues with Linux.
 -   We highly recommend you use the Google Chrome browser to access the RStudio Server training environment.
 
-The entire course will be recorded and made available to registered R/Medicine 2022 conference participants for replay. To protect the privacy of participants, no breakouts, video feeds, or chats will be recorded. We also request that you refrain from recording or screen-grabbing any part of the course.
+The entire course will be recorded and made available to registered R/Medicine 2025 conference participants for replay. To protect the privacy of participants, no breakouts, video feeds, or chats will be recorded. We also request that you refrain from recording or screen-grabbing any part of the course.
 
 ## Pre-work
 
@@ -53,7 +50,7 @@ The entire course will be recorded and made available to registered R/Medicine 2
 
 ## After the course
 
-If you would like to practice with the materials from the course, go to the [GitHub repository](https://github.com/skadauke/intro-to-r-for-clinical-data-rmed2022), and click the green button labeled "Code" to download the repository as a .ZIP file.
+If you would like to practice with the materials from the course, go to the [GitHub repository](https://github.com/skadauke/intro-to-r-for-clinical-data-rmed2025), and click the green button labeled "Code" to download the repository as a .ZIP file.
 
 To install all the packages we used in the training environment, open RStudio and run the following command in the Console:
 
@@ -70,10 +67,8 @@ install.packages(c(
 
 ## Resources
 
--   [R for Data Science](https://r4ds.had.co.nz/) (by Hadley Wickham and Garrett Grolemund)
-    -   [Solutions Manual](https://jrnold.github.io/r4ds-exercise-solutions/) (by Jeffrey Arnold)
+-   [R for Data Science](https://r4ds.hadley.nz/) (by Hadley Wickham and Garrett Grolemund)
 -   [Quarto](https://quarto.org/)
--   [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) (by Yihui Xie, JJ Allaire, and Garrett Grolemund)
 -   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (by Claus Wilke)
 -   [RStudio Cheatsheets](https://rstudio.com/resources/cheatsheets/)
 
