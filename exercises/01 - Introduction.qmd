@@ -39,4 +39,4 @@ Without writing any code, just by working with the Data Viewer, try to answer th
 
 4.  How many tests overall were positive? How many positive tests were there in the first 30 days of the pandemic? (Hint: look at the Filter button)
 
-When you are done, don't forget to click "yes" in the Participants window in Zoom!
+When you are done, don't forget write "done!" in the Chat window in Zoom!
